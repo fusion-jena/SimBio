@@ -3,7 +3,7 @@
 SimBio is a semantic similarity assessment method by exploiting different knowledge resources to find the degree of proximity between your terms, where a numerical score quantifies this proximity as a function of the semantic evidence.  
 
 
-Our similarity method is based on *Particle Swarm Optimization (PSO) algorithm*. Please see our [publication]( https://link.springer.com/chapter/10.1007/978-3-319-69459-7_11).
+Our similarity method is based on *Particle Swarm Optimization (PSO)* algorithm. Please see our [publication]( https://link.springer.com/chapter/10.1007/978-3-319-69459-7_11).
 
 The tool is freely accessible through http://simbio.uni-jena.de/
 
